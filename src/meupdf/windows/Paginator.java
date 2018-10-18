@@ -7,7 +7,7 @@ package meupdf.windows;
 
 /**
  *
- * @author iW Dev
+ * @author CledilsonWeb
  */
 public class Paginator extends javax.swing.JFrame {
 
