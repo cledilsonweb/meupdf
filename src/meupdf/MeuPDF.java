@@ -14,7 +14,7 @@ import meupdf.editor.RenderPaginator;
 
 /**
  *
- * @author iW Dev
+ * @author CledilsonWeb
  */
 public class MeuPDF {
 

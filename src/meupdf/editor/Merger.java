@@ -25,7 +25,7 @@ import org.apache.pdfbox.pdmodel.font.PDType1Font;
 
 /**
  *
- * @author iW Dev
+ * @author CledilsonWeb
  */
 public class Merger {
 
